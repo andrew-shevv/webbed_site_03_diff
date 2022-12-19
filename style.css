@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body {
+  background: #020A18;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  font-family: "Open Sans", sans-serif;
+  background: #08181D;
+}
+
+.main {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1146px;
+}
+
+.main-page {
+  background: #08181E;
+}
+
+.footer {
+  font-family: "Roboto", sans-serif;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+@import "vars";
+
+body {
+    background: #020A18;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    font-family: $main-font;
+    background: #08181D;
+}
+
+
+
+.main {
+    font-family: $main-font;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1146px;
+}
+
+.main-page {
+    background: #08181E;
+}
+
+.footer {
+    font-family: $footer-font;
+}
